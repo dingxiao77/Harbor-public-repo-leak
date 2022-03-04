@@ -4,4 +4,5 @@
 
 ##### 一键获取harbor中设置为public的镜像
 ##### usage: python3 ./Harbor_public_image.py https://xx.xx.xx.xx/
+## 仅限技术研究与讨论，严禁用于非法用途
 
